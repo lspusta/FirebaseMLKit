@@ -6,7 +6,6 @@ tiger shark
 hammerhead
 electric ray
 stingray
-cock
 hen
 ostrich
 brambling
